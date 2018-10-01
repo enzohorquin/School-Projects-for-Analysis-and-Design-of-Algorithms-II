@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1441916381 source:c:\users\enzo\desktop\prim\main.cpp
+	"TP2_Grafo.h"
+	"list"
+	"iostream"
+	"set"
+
+1441307666 c:\users\enzo\desktop\prim\tp2_grafo.h
+	<list>
+	<map>
+

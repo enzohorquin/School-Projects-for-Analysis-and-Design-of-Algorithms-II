@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1441640338 source:c:\users\enzo\desktop\tp 1 y 2 algoritmos 2\trabajo practico 1\dfs\main.cpp
+	"TP2_Grafo.h"
+	"list"
+	"iostream"
+	"set"
+
+1441307666 c:\users\enzo\desktop\tp 1 y 2 algoritmos 2\trabajo practico 1\dfs\tp2_grafo.h
+	<list>
+	<map>
+

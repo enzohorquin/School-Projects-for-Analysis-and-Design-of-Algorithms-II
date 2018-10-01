@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1441503797 source:c:\users\enzo\desktop\dijkstra\main.cpp
+	"TP2_Grafo.h"
+	"list"
+	"iostream"
+	"set"
+
+1441307666 c:\users\enzo\desktop\dijkstra\tp2_grafo.h
+	<list>
+	<map>
+
+1441636643 source:c:\program files\codeblocks\mingw\bin\dijkstra\main.cpp
+	"TP2_Grafo.h"
+	"list"
+	"iostream"
+	"set"
+
+1441307666 c:\program files\codeblocks\mingw\bin\dijkstra\tp2_grafo.h
+	<list>
+	<map>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1441464169 source:c:\users\enzo\desktop\clasegrafo\main.cpp
+	"Grafo.h"
+	"list"
+	"iostream"
+
+1441464673 c:\users\enzo\desktop\clasegrafo\grafo.h
+	<list>
+	<iostream>
+

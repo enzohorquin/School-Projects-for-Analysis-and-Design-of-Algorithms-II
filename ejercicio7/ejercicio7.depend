@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1442874433 source:c:\users\enzo\desktop\ejercicio7\main.cpp
+	<iostream>
+	"TP2_Grafo.h"
+
+1441307666 c:\users\enzo\desktop\ejercicio7\tp2_grafo.h
+	<list>
+	<map>
+
